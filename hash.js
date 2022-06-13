@@ -7,4 +7,4 @@ async function run() {
     console.log(hashed);
 }
 
-run();
+run(); // use node hash.js on cmd to demonstrate Salt and concatenated Salt with hashed password 
